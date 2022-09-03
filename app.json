@@ -1,0 +1,29 @@
+{
+  "id": "d1dcef43-48c2-49a7-a81c-dc85e2acf660",
+  "name": "SetLoadFields",
+  "publisher": "IvanSingleton.dev",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "https://ivansingleton.dev/",
+  "help": "https://ivansingleton.dev/",
+  "url": "https://ivansingleton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 59100,
+      "to": 59149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
